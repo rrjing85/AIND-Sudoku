@@ -1,4 +1,5 @@
-# Artificial Intelligence Nanodegree
+# This project is from the course of Artificial Intelligence Nanodegree of Udacity I am taking now
+
 ## Introductory Project: Diagonal Sudoku Solver
 
 # Question 1 (Naked Twins)
